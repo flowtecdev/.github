@@ -8,6 +8,7 @@
   <p align="center">
     A ferramenta direcionada à contadores.
     <br />
+    .
     <a href="https://flowtec.dev">Site</a>
     ·
   </p>
